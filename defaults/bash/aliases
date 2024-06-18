@@ -6,6 +6,11 @@ alias lta='lt -a'
 alias ff="fzf --preview 'batcat --style=numbers --color=always {}'"
 alias fd="fdfind"
 
+alias l='exa'
+alias la='exa -a'
+alias ll='exa -lahg'
+# alias ls='exa --color=auto'
+
 # Directories
 alias ..='cd ..'
 alias ...='cd ../..'
